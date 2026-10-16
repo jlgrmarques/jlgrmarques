@@ -1,4 +1,4 @@
-![Passo a passo. Rumo ao que importa](banner-cyberlab.jpg)
+![Passo a passo. Rumo ao que importa](cyberlab.jpg)
 
 # 👋 Bem-vindo ao meu GitHub
 
