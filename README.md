@@ -84,6 +84,37 @@ A Formação em Contexto de Trabalho será uma oportunidade para aplicar e aprof
 
 ---
 
+## 📊 GitHub Analytics | Estatísticas
+
+*Uma visão dinâmica da atividade pública do CyberLab Pro.*
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jlgrmarques&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub statistics for jlgrmarques"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlgrmarques&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most used languages on GitHub"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=jlgrmarques&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <i>Every repository, script and documented project adds another step to the journey.</i>
+</p>
+
+---
+
 ## 🧪 CyberLab Pro | Laboratório pessoal
 
 O **CyberLab Pro** é o meu laboratório pessoal de cibersegurança, desenvolvido em paralelo com a formação.
@@ -133,15 +164,13 @@ Exploração gradual de monitorização, deteção de eventos e ferramentas como
 - **VirtualBox:** criação e gestão de máquinas virtuais para experiências isoladas.
 - **Wireshark e Nmap:** aprendizagem de análise de tráfego e descoberta de serviços de rede.
 - **Windows Server:** prática com DNS, Active Directory e Group Policy.
-- **Suricata e Wazuh:** áreas de exploração para monitorização e deteção de ameaças.
+- **Suricata e Wazuh:** exploração progressiva de monitorização e deteção de ameaças.
 
 *As atividades são realizadas em laboratórios próprios ou em ambientes para os quais existe autorização.*
 
 ---
 
 ## 🏆 Featured Projects | Projetos em destaque
-
-<div align="center">
 
 <table>
 <tr>
@@ -193,8 +222,6 @@ Exploração gradual de monitorização, deteção de eventos e ferramentas como
 </tr>
 </table>
 
-</div>
-
 <p align="center">
   <i>Practical work. Documented learning. Continuous improvement.</i>
 </p>
@@ -210,6 +237,58 @@ Exploração gradual de monitorização, deteção de eventos e ferramentas como
 | CyberLab Pro | Integração progressiva dos laboratórios |
 
 *Os projetos serão ligados aos respetivos repositórios à medida que forem organizados e publicados.*
+
+---
+
+## 📈 CyberLab Progress Dashboard | Painel de evolução
+
+O progresso é acompanhado através do trabalho realizado, dos exercícios concluídos e da documentação produzida — não através de percentagens inventadas.
+
+<table>
+<tr>
+<th>Área</th>
+<th>Foco atual</th>
+<th>Estado</th>
+</tr>
+<tr>
+<td>🐍 Python & Security</td>
+<td>Scripts, logs e análise de domínios</td>
+<td><img src="https://img.shields.io/badge/Em_desenvolvimento-blue?style=flat-square" alt="Em desenvolvimento" /></td>
+</tr>
+<tr>
+<td>🪟 Windows Server</td>
+<td>DNS, Active Directory e GPO</td>
+<td><img src="https://img.shields.io/badge/Pratica_de_laboratorio-orange?style=flat-square" alt="Prática de laboratório" /></td>
+</tr>
+<tr>
+<td>🌐 Networking</td>
+<td>Fundamentos, routing e switching</td>
+<td><img src="https://img.shields.io/badge/Em_aprendizagem-blue?style=flat-square" alt="Em aprendizagem" /></td>
+</tr>
+<tr>
+<td>🔍 Digital Forensics</td>
+<td>Magic numbers e evidência digital</td>
+<td><img src="https://img.shields.io/badge/Em_desenvolvimento-blue?style=flat-square" alt="Em desenvolvimento" /></td>
+</tr>
+<tr>
+<td>🛡️ Blue Team</td>
+<td>Monitorização, IDS e análise de eventos</td>
+<td><img src="https://img.shields.io/badge/Exploracao_progressiva-purple?style=flat-square" alt="Exploração progressiva" /></td>
+</tr>
+<tr>
+<td>🐧 Linux Security</td>
+<td>Comandos, ferramentas e laboratórios</td>
+<td><img src="https://img.shields.io/badge/Aprendizagem_continua-blue?style=flat-square" alt="Aprendizagem contínua" /></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Approach-Hands--On-blue?style=for-the-badge" alt="Hands-on approach" />
+  <img src="https://img.shields.io/badge/Progress-Step%20by%20Step-purple?style=for-the-badge" alt="Step by step progress" />
+  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-0A66C2?style=for-the-badge" alt="Continuous learning" />
+</p>
+
+**Como evolui este painel:** os estados são atualizados manualmente quando houver novos resultados, laboratórios concluídos ou documentação publicada. As estatísticas GitHub, por sua vez, são geradas separadamente pelos serviços externos.
 
 ---
 
@@ -256,6 +335,8 @@ Monitorização · Deteção · Resposta a incidentes
 - 🐧 Desenvolver e documentar laboratórios de Linux e segurança.
 - 🛡️ Explorar monitorização, deteção de eventos e resposta a incidentes.
 - 📝 Transformar os exercícios realizados em documentação técnica organizada.
+- 🗂️ Organizar os projetos em repositórios GitHub com README, evidências e conclusões.
+- 📊 Acompanhar a evolução do perfil através de atividade e projetos reais.
 
 ---
 
@@ -273,52 +354,17 @@ O objetivo é complementar a formação com desafios e laboratórios, registando
 
 ---
 
-## 📡 CyberLab Progress | Método de trabalho
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📚 LEARN
-
-**Aprender**
-
-Consolidar conceitos e fundamentos.
-
-</td>
-<td align="center" width="33%">
-
-### 🧪 EXPLORE
-
-**Experimentar**
-
-Praticar em ambientes controlados.
-
-</td>
-<td align="center" width="33%">
-
-### 📝 DOCUMENT
-
-**Documentar**
-
-Registar resultados e aprendizagens.
-
-</td>
-</tr>
-</table>
+## 🧰 Tools & Platforms | Ferramentas e plataformas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Approach-Hands--On-blue?style=for-the-badge" alt="Hands-on approach" />
-  <img src="https://img.shields.io/badge/Progress-Step%20by%20Step-purple?style=for-the-badge" alt="Step by step progress" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
-
-<div align="center">
-
-*Every lab is an opportunity to learn something new.*
-
-*Cada laboratório é uma oportunidade para aprender algo novo.*
-
-</div>
 
 ---
 
@@ -358,3 +404,4 @@ Acredito na aprendizagem consistente, na curiosidade e na prática. Cada exercí
 ---
 
 <sub>Este portefólio está em construção e será atualizado à medida que o meu percurso de formação e os projetos evoluírem.</sub>
+
