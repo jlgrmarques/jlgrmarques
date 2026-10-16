@@ -1,5 +1,32 @@
 ![Passo a passo. Rumo ao que importa](cyber-lab.jpeg)
 
+
+<div align="center">
+
+# 🔐 CyberLab Pro
+
+### Cibersegurança • Laboratórios • Aprendizagem contínua
+*Cybersecurity • Labs • Continuous Learning*
+
+**Passo a passo. Rumo ao que importa.**  
+*Step by step. Focused on what matters.*
+
+A construir conhecimento através de experiências práticas,  
+laboratórios, desafios e projetos documentados.
+
+*Building knowledge through hands-on labs, challenges,  
+and documented projects.*
+
+💻 **Explorar.** 🔍 **Compreender.** 🛡️ **Proteger.**
+
+*Explore. Understand. Protect.*
+
+</div>
+
+---
+
+
+
 # 👋 Bem-vindo ao meu GitHub
 
 ### 🔐 Cibersegurança | Formação técnica | Aprendizagem contínua
