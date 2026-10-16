@@ -146,5 +146,35 @@ Acredito na aprendizagem consistente, na curiosidade e na prática. Cada exercí
 
 <p align="center"><i>Learning by doing • Documenting every step • Building practical skills</i></p>
 
+---
+
+## 🚀 Learning Journey
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐍 Python</h3>
+      <p>Automation · Scripting · Security Exercises</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Networking</h3>
+      <p>Protocols · Traffic Analysis · Troubleshooting</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐧 Linux</h3>
+      <p>Command Line · System Administration · Security</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️ Blue Team</h3>
+      <p>Monitoring · Detection · Incident Response</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>From learning fundamentals to building practical cybersecurity labs.</i></p>
+
+
 
 
