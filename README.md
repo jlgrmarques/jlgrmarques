@@ -1,3 +1,5 @@
+![Passo a passo. Rumo ao que importa](banner-cyberlab.jpg)
+
 # 👋 Bem-vindo ao meu GitHub
 
 ### 🔐 Cibersegurança | Formação técnica | Aprendizagem contínua
