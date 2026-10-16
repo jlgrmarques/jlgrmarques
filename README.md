@@ -122,3 +122,29 @@ Acredito na aprendizagem consistente, na curiosidade e na prática. Cada exercí
 
 *Este portefólio está em construção e será atualizado à medida que o meu percurso de formação e os projetos evoluírem.*
 
+---
+
+## ⚙️ Tech Stack & Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blue_Team-1F6FEB?style=for-the-badge&logo=shield&logoColor=white" alt="Blue Team" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+</p>
+
+<p align="center"><i>Learning by doing • Documenting every step • Building practical skills</i></p>
+
+
+
