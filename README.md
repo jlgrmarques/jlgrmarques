@@ -82,25 +82,21 @@ A Formação em Contexto de Trabalho será uma oportunidade para aplicar e aprof
 
 *As tecnologias apresentadas representam áreas de estudo e experimentação, com diferentes níveis de experiência.*
 
----
+
+
 
 ## 📊 GitHub Analytics | Estatísticas
 
 *Uma visão dinâmica da atividade pública do CyberLab Pro.*
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jlgrmarques&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub statistics for jlgrmarques"
-  />
-</p>
+![GitHub statistics for jlgrmarques](https://github-readme-stats.vercel.app/api?username=jlgrmarques&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlgrmarques&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most used languages on GitHub"
-  />
-</p>
+![Most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=jlgrmarques&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+
+
+
+
 
 <p align="center">
   <img
